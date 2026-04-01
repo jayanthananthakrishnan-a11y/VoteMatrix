@@ -1,0 +1,44 @@
+# ── Node / Frontend ───────────────────────────────────────
+node_modules/
+dist/
+dist-ssr/
+.vite/
+*.local
+
+# ── Environment files ─────────────────────────────────────
+.env
+.env.local
+.env.production
+.env.*.local
+
+# ── Large data file — do NOT commit to GitHub ─────────────
+# Host this separately (Google Drive / S3 / release assets)
+frontend/public/Election_Results_2024_with_states.json
+public/Election_Results_2024_with_states.json
+backend/src/main/resources/data/
+
+# ── Java / Maven / Spring Boot ────────────────────────────
+backend/target/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.mvn/wrapper/maven-wrapper.jar
+
+# ── IDE files ─────────────────────────────────────────────
+.idea/
+*.iws
+*.ipr
+.vscode/settings.json
+.vscode/launch.json
+
+# ── OS files ──────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Logs ──────────────────────────────────────────────────
+*.log
+logs/
+spring.log

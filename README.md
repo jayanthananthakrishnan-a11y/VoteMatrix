@@ -189,7 +189,11 @@ Open: `http://localhost:5173`
 
 ## 📸 Screenshots
 
-> _Add screenshots here after pushing to GitHub_
+<img width="1860" height="825" alt="EID_S1" src="https://github.com/user-attachments/assets/486fbc4e-e227-40e4-9b5d-a2abdce17489" />
+
+<img width="1893" height="775" alt="EID_S2" src="https://github.com/user-attachments/assets/eaf0c4b0-4b6b-4a30-9ace-3c2f6dc25ded" />
+
+<img width="1868" height="816" alt="EID_S3" src="https://github.com/user-attachments/assets/7434cd18-a79c-445a-b5ae-5c1020e20d5f" />
 
 ---
 
